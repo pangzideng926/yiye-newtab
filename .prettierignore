@@ -1,0 +1,6 @@
+dist
+dist-zip
+_prototype
+coverage
+pnpm-lock.yaml
+public/icons/*.png
